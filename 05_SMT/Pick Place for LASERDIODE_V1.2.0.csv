@@ -4,15 +4,14 @@ D:\WorkSpace\Altium\NANORACK\LASERDIODE V1.2.0\01_DESIGN\Project Outputs for NAN
 ========================================================================================================================
 File Design Information:
 
-Date:       10/04/25
-Time:       22:34
-Revision:   Not in VersionControl
+Date:       14/04/25
+Time:       14:41
+Revision:   00842105168562c6d1e59be888eed6c87d8983d8
 Variant:    No variations
 Units used: mm
 
 "Designator","Comment","Layer","Footprint","Center-X(mm)","Center-Y(mm)","Rotation","Description"
-"H10","HOLD","TopLayer","M3","42.5000","3.6000","0",""
-"H9","HOLD","TopLayer","M3","42.5000","81.4000","0",""
+"H9","HOLD","TopLayer","M3","46.5300","82.4000","0",""
 "TP9","Test_Point","BottomLayer","TESTPOINT","73.6600","29.9720","90",""
 "R1","4.7K 1%","BottomLayer","RES-SMD-0603","70.9741","30.9881","180","0603"
 "J3","BYPASS/DNP","BottomLayer","BIG_CONNECTOR","75.1840","4.9290","270","DNP"
